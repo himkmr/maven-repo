@@ -20,7 +20,7 @@
     <module>server</module>
     <module>webapp</module>
   </modules>
-
+<!--  
   <distributionManagement>
     <site>
       <id>site-server</id>
@@ -28,7 +28,7 @@
       <url>file:///tmp/maven-project-site</url>
     </site>
   </distributionManagement>
-
+-->
   <build>
     <plugins>
       <plugin>
@@ -207,10 +207,10 @@
   </dependencyManagement>
 
   <scm>
-    <connection>scm:git:git@github.com:jleetutorial/maven-project.git</connection>
-    <developerConnection>scm:git:git@github.com:jleetutorial/maven-project.git</developerConnection>
+    <connection>scm:git:git@github.com:himkmr/maven-repo.git</connection>
+    <developerConnection>scm:git:git@github.com:himkmr/maven-repo.git</developerConnection>
     <tag>HEAD</tag>
-    <url>http://github.com/jleetutorial/maven-project</url>
+    <url>http://github.com/jhimkmr/maven-repo</url>
   </scm>
 
   <prerequisites>
