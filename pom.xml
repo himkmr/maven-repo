@@ -210,7 +210,7 @@
     <connection>scm:git:git@github.com:himkmr/maven-repo.git</connection>
     <developerConnection>scm:git:git@github.com:himkmr/maven-repo.git</developerConnection>
     <tag>HEAD</tag>
-    <url>http://github.com/jhimkmr/maven-repo</url>
+    <url>http://github.com/himkmr/maven-repo</url>
   </scm>
 
   <prerequisites>
